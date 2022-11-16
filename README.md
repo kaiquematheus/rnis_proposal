@@ -16,11 +16,7 @@ Aluno responsável:
 ---
 # Ambiente virtual
 
-sudo pip3 install virtualenv  --user
-
- ## ou
-
-sudo apt install python3-virtualenv
+sudo pip3 install virtualenv  --user      ou     sudo apt install python3-virtualenv
 
 ## criando o ambiente:
 
