@@ -11,7 +11,7 @@ Aluno responsável:
 ---
 # Descrição
 
-A estrutura da API RNIS esta sendo feita com base nas especificações do ETSI GS MEC 012 V2.1.1 (2019-12).
+A estrutura da API RNIS está sendo feita com base nas especificações do ETSI GS MEC 012 V2.1.1 (2019-12)2).**
 ---
 
 ---
