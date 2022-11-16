@@ -1,3 +1,17 @@
+# rnis_proposal
+
+---
+Repositório que contém todo o desenvolvimento relacionado à dissertação de mestrado "Integração da Computação de Borda Móvel e Sistema 5G para Internet das Coisas na Agricultura 4.0".
+
+Aluno responsável:
+* [Kaíque Matheus](http://lattes.cnpq.br/9539570966327546)
+
+
+
+
+
+
+
 # Ambiente virtual
 
 sudo pip3 install virtualenv  --user
