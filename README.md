@@ -16,17 +16,19 @@ Aluno responsável:
 ---
 # Ambiente virtual
 
-sudo pip3 install virtualenv  --user      ou     sudo apt install python3-virtualenv
+sudo pip3 install virtualenv  --user      
+ou
+sudo apt install python3-virtualenv
 
-## criando o ambiente:
+## Criando o ambiente:
 
  virtualenv nome_Do_ambiente  --python=python3.10         
 
-## para acessar o ambiente use o comando:
+## Para acessar o ambiente use o comando:
 
 source nome_Do_ambiente/bin/activate
 
-## para desativar o ambiente
+## Para desativar o ambiente
 
 deactivate
 
