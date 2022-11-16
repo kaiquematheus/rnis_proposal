@@ -8,9 +8,10 @@ Aluno responsável:
 
 
 
+---
+# Descrição
 
-
-
+A estrutura da API RNIS esta sendo feita com base nas especificações do ETSI GS MEC 012 V2.1.1 (2019-12).
 ---
 
 ---
@@ -51,4 +52,4 @@ Detalhe o __init__.py dizer que esta pasta no qual esta inserido e um modulo/pac
 
 
 
-# Descrição
+
