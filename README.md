@@ -11,7 +11,9 @@ Aluno responsável:
 
 
 
+---
 
+---
 # Ambiente virtual
 
 sudo pip3 install virtualenv  --user
