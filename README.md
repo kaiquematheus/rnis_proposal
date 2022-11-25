@@ -1,5 +1,4 @@
-# rnis_proposal
-
+# rnis_proposal teste
 ---
 Repositório que contém todo o desenvolvimento relacionado à dissertação de mestrado "Integração da Computação de Borda Móvel e Sistema 5G para Internet das Coisas na Agricultura 4.0". 
 
